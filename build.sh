@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t fedora_lv .
+docker build -t os_labview .
